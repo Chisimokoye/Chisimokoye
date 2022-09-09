@@ -6,9 +6,6 @@
 - 📫 How to reach me: chisimokoye@gmail.com
 - ⚡ I like a good joke. Here is one : 
 - ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
-
 <!--
 **Chisimokoye/Chisimokoye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
